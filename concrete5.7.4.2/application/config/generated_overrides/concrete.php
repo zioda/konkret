@@ -2,7 +2,7 @@
 
 /**
  * -----------------------------------------------------------------------------
- * Generated 2015-05-25T19:17:40+02:00
+ * Generated 2015-06-01T10:40:16+02:00
  *
  * @item      misc.do_page_reindex_check
  * @group     concrete
@@ -15,6 +15,7 @@ return array(
     'version_installed' => '5.7.4.2',
     'misc' => array(
         'access_entity_updated' => 1432572772,
-        'do_page_reindex_check' => false
+        'do_page_reindex_check' => false,
+        'latest_version' => '5.7.4.2'
     )
 );
